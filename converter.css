@@ -6,13 +6,13 @@
   box-sizing:border-box;
 }
 html {
-  background-color:white;
+  background-color:#333;
   font:normal normal 13px/1.4 Helmet,FreeSans,Sans-Serif;
-  color:#333;
+  color:#fff;
   padding:1em;
 }
 a {
-  color:#333;
+  color:#fff;
   text-decoration:none;
 }
 a:focus,
